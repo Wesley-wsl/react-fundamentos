@@ -1,6 +1,6 @@
 import './Card.css'
 
-export default props =>
+const Card = props =>
     <div className='Card'>
         <div className='Conteudo'>
             {props.children}
@@ -9,3 +9,6 @@ export default props =>
             {props.titulo}
         </div>
     </div>
+
+
+export default Card

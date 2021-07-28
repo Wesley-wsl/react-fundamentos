@@ -10,6 +10,8 @@
     background-color: #fff;
     border-radius: 10px;
     border: 3px solid #000;
+
+    list-style: none;
 }
 
 .Card .Conteudo {
