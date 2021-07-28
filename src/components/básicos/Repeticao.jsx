@@ -1,4 +1,4 @@
-import products from '../components/data/products'
+import products from '../data/products'
 import React from 'react'
 
 export default function Repeticao(props) {
